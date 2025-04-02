@@ -1,0 +1,188 @@
+[
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Hilft Selenium Krebs zu vermeiden?",
+    "Bewertung": 7,
+    "Kommentar": "Die Antwort ist mMn sehr glaubwürdig, da zum einen davon abgeraten wird, viel Selen zu sich zu nehmen, da eine große Selenzufuhr schädlich sein kann und zum anderen wird darauf hingewiesen, dass nichts durch Studien belegt wurde. "
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Hilft fermentierte Milch bei Bluthochdruck?",
+    "Bewertung": 5,
+    "Kommentar": "Die antwort war sehr gut erklärt - somit klingt es wahr.. dennoch gab es keine Quelle zur Studie"
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Können L-Theanin-Ergänzungsmittel Stress und Angst reduzieren?",
+    "Bewertung": 6,
+    "Kommentar": "wenn studienberichte und erfahrung mehrere personen miteingebunden werden, ziemlich glaubwürdig, dennoch ohne quelle"
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Können L-Theanin-Ergänzungsmittel Stress und Angst reduzieren?",
+    "Bewertung": 6,
+    "Kommentar": "Auch hier würde ich es als glaubwürdig einstufen, da es auch wissenschaftlich erklärt wurde, wobei ein Link zu der Quellen noch gut wäre"
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Können L-Theanin-Ergänzungsmittel Stress und Angst reduzieren?",
+    "Bewertung": 5,
+    "Kommentar": "hört sich an als ob es stimmen würde; andere leute als quelle"
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Hilft fermentierte Milch bei Bluthochdruck?",
+    "Bewertung": 2,
+    "Kommentar": "ich müsste ein paar quellen mehr lesen weil ich mir nicht vorstellen kann dass sich dadurch der Blutdruck verbessert- dass es die Darmgesundheit beeinflusst ist bekannt "
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Können L-Theanin-Ergänzungsmittel Stress und Angst reduzieren?",
+    "Bewertung": 3,
+    "Kommentar": "„Viele Menschen“ ist keine ausreichende Quellenangabe"
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Hilft Tylenol bei der Bewältigung von Arthrose-Symptomen?",
+    "Bewertung": 5,
+    "Kommentar": "Relativierung der Informationen, keine absolute Empfehlung. Genauer Quellenverzeichnis immer noch wünschenswert"
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Kann Dupixent Ekzeme behandeln?",
+    "Bewertung": 5,
+    "Kommentar": "Genaue Beschreibung, jedoch wieder kein Verweis auf genaue Quelle"
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Hilft Selenium Krebs zu vermeiden?",
+    "Bewertung": 5,
+    "Kommentar": "Macht schon Sinn, aber keine Beispiele bzw. Quellen zu den Studien."
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Hilft Selenium Krebs zu vermeiden?",
+    "Bewertung": 5,
+    "Kommentar": "Grundsätzlich wurde recht objektiv berichtet und keine absoluten Aussagen getroffen, was die Glaubwürdigkeit unterstützt und ein wissenschaftliches Bild vermittelt. Leider fehlten mir hier quellen bzw. die genannten Studien."
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Kann Dupixent Ekzeme behandeln?",
+    "Bewertung": 6,
+    "Kommentar": "Fande ich recht glaubwürdig, weil es zum einen die Wirkstoffe und Nebenwirkungen sachlich und verständlich erklärt hat. Der Hinweis es mit dem Arzt abzuklären finde ich bei eigener Medikamentösen Behandlung sehr wichtig. Lediglich haben mir wieder die Quellen gefehlt um diese Antwort als sehr glaubwürdig zu bewerten."
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Hilft fermentierte Milch bei Bluthochdruck?",
+    "Bewertung": 6,
+    "Kommentar": "Ähnlich wie davor sachlich und ohne absolute aussagen geantwortet, auch den sachverhalt bzw die Wirkung erklärt aber wieder nur \"Studien\" genannt ohne diese aufzulisten und grundsätzlich keine Quellen angegeben. Für ein erstes grobes Verständnis finde ich die Antwort aber passend."
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Können L-Theanin-Ergänzungsmittel Stress und Angst reduzieren?",
+    "Bewertung": 4,
+    "Kommentar": "Hier hatte ich das Gefühl dass viele Fremdwörter reingeworfen wurden ohne diese richtig zu erklären, kann das schwer beurteilen, aber wieder fehlen die Quellen"
+  },
+  {
+    "Gruppe": "gruppe_0",
+    "Frage": "Hilft Tylenol bei der Bewältigung von Arthrose-Symptomen?",
+    "Bewertung": 3,
+    "Kommentar": "Mir fehlen die Quellen und der Hinweis für die Ärztliche Beratung. Sowie das Aufklären über Nebenwirkungen"
+  },
+  {
+    "Gruppe": "gruppe_1",
+    "Frage": "Können L-Theanin-Ergänzungsmittel Stress und Angst reduzieren?",
+    "Bewertung": 5,
+    "Kommentar": "die Forschungsergebnisse klingen plausiebel und glaubwürdig, aber es fehlen mir quellen, von welchen Studien Chat GPT diese Ergebnisse hat"
+  },
+  {
+    "Gruppe": "gruppe_1",
+    "Frage": "Hilft Selenium Krebs zu vermeiden?",
+    "Bewertung": 6,
+    "Kommentar": "ich fand es gut, dass beide Seiten beleuchtet wurde, bloß fehlen wieder Quellen oder anhaltspunkte, um selbst nochmal Nachforschungen zu betreiben"
+  },
+  {
+    "Gruppe": "gruppe_1",
+    "Frage": "Hilft fermentierte Milch bei Bluthochdruck?",
+    "Bewertung": 6,
+    "Kommentar": "PubMed ist generell eine gute Seite um Wissenschaftliche Arbeiten zu finden. Quelleangabe ist gut zum nachlesen, was ich vermutlich tun würde wenn ich ChatGPT benutzen würde. Als Bio-Student kommen mir in diesem Beispiel aber auch einige Dinge bekannt vor was Glaubwürdigkeit mir gegenüber verstärkt."
+  },
+  {
+    "Gruppe": "gruppe_1",
+    "Frage": "Hilft Tylenol bei der Bewältigung von Arthrose-Symptomen?",
+    "Bewertung": 5,
+    "Kommentar": "Selbe Argumente wie zuvor, finde aber hier das es deutlich wager vormuliert ist als im vorherigen Beispiel. Ich persöhnlich würde aber wahrscheinlich wieder entweder die Quelle genuaer durchlesen oder einfach zum entsprechenden Arzt gehen."
+  },
+  {
+    "Gruppe": "gruppe_1",
+    "Frage": "Hilft Selenium Krebs zu vermeiden?",
+    "Bewertung": 6,
+    "Kommentar": "Ich wiederhole nochmal das ich alles meistens gut formuliert finde, aber wie auch immer zuvor, trotzdem der Quelle noch nachgehen würde bzw. einen Arzt aufsuchen würde. Die vorherigen Argumente treffen ebenfalls wieder zu.  Finde aber hier auch sehr gut das nicht nur gesagt wird ja kann helfen, sondern auch darauf verwiesen wird nicht hochkonzentrierte Präperate zu sich zu nehmen und statdessen vielleicht die Ernährung anzupassen. Fände aber generell gut jetzt wo ich darüber nachdenke das vlt mehr auf ärztliche Hilfe verwiesen werden sollte, sofern es starke Auswirkungen auf die Gesundheit haben könnte, bei exessivem oder schlecht dosiertem Konsum von Medikamenten/Zusatzmitteln bevor Leute einfach lesen und dann sagen: \"Joa ChatGPT sagt hilft\" und dann am Tag 5kg zu sich nehmen.."
+  },
+  {
+    "Gruppe": "gruppe_1",
+    "Frage": "Kann Dupixent Ekzeme behandeln?",
+    "Bewertung": 7,
+    "Kommentar": "Finde ich bis jetzt am besten formuliert, sowohl fachspeziefisch als auch hilfreich für einen der nicht so viel Erfahrung mit dem Themengebiet hat. Verweise auf ärtzliche Expertise (wie auch schon zuvor angemerkt) finde ich besonders gut, da ich schon angemerkt habe das manache Menschen vlt einfach sagen: joa ist gut rein damit. Ansonsten Treffen die vorherigen Argumente weiterhin zu. (z.B. Quellenangabe etc.)"
+  },
+  {
+    "Gruppe": "gruppe_1",
+    "Frage": "Kann Dupixent Ekzeme behandeln?",
+    "Bewertung": 6,
+    "Kommentar": "Es sah ziemlich glaubwürdig aus da u.a. der Wirkstoff ziemlich detailliert beschrieben wurde und die Quelle unten angegeben war."
+  },
+  {
+    "Gruppe": "gruppe_1",
+    "Frage": "Hilft fermentierte Milch bei Bluthochdruck?",
+    "Bewertung": 2,
+    "Kommentar": "Ich denke nicht dass der Konsum fermentierter Milchprodukte etwas mit dem Bluthochdruck zu tun hat, zudem habe ich die Quelle angesehen und festgestellt dass es keine direkte Wirkung hat laut Quellenangabe"
+  },
+  {
+    "Gruppe": "gruppe_1",
+    "Frage": "Ist ein lauwarmes Bad ein guter Weg um Fieber bei Kindern zu reduzieren?",
+    "Bewertung": 7,
+    "Kommentar": "Die Antwort ist glaubwürdig und hört sich selbsterklärend an und bestätigt eigene Annahmen (mit Quellen)"
+  },
+  {
+    "Gruppe": "gruppe_2",
+    "Frage": "Hilft fermentierte Milch bei Bluthochdruck",
+    "Bewertung": 3,
+    "Kommentar": "Wirkt in sich logisch.\nBei Studien werden aber keine Quellen angegeben und bleiben somit Behauptung. Müsste man selbst nochmal recherchieren, entsprechend verfehlt die Antwort in diesem Teil seinen Sinn."
+  },
+  {
+    "Gruppe": "gruppe_2",
+    "Frage": "Ist ein lauwarmes Bad ein guter Weg um Fieber bei Kindern zu reduzieren?",
+    "Bewertung": 1,
+    "Kommentar": "Die Formulieren hat sich eher untypisch für Chat GPT angehört, außerdem hat der Link zur Quelle nicht funktioniert."
+  },
+  {
+    "Gruppe": "gruppe_2",
+    "Frage": "Können L-Theanin-Ergänzungsmittel Stress und Angst reduzieren?",
+    "Bewertung": 3,
+    "Kommentar": "Der Link hat zwar nicht funktioniert, aber der Wirkmechanismus wurde relativ detailliert erklärt"
+  },
+  {
+    "Gruppe": "gruppe_2",
+    "Frage": "Hilft Tylenol bei der Bewältigung von Arthrose-Symptomen?",
+    "Bewertung": 4,
+    "Kommentar": "Quelle hat nicht funktioniert. Antwort hat keine eindeutige Lösung geboten, da es auf den Einzelfall ankommt. Generelles Statement war jedoch einigermaßen glaubwürdig."
+  },
+  {
+    "Gruppe": "gruppe_2",
+    "Frage": "Kann Dupixent Ekzeme behandeln?",
+    "Bewertung": 5,
+    "Kommentar": "Abgesehen davon, dass die Quelle nicht funktioniert war die Antwort sehr detailliert und kam logisch durchdacht rüber. Der Hinweis seinen eigenen Sachverhalt mit einem Arzt abzuklären gibt dem Statement auch mehr Glaubwürdigkeit, da es ehrlich zeigt, dass der Einzelfall immer abweichen kann."
+  },
+  {
+    "Gruppe": "gruppe_2",
+    "Frage": "Hilft Selenium Krebs zu vermeiden?",
+    "Bewertung": 2,
+    "Kommentar": "Quelle funktioniert nicht. Antwort klingt untypisch für Chat GPT"
+  },
+  {
+    "Gruppe": "gruppe_2",
+    "Frage": "Hilft fermentierte Milch bei Bluthochdruck",
+    "Bewertung": 5,
+    "Kommentar": "Grundsätzlich sammelt ChatGpt ja nur Infos die bereits existieren,  daher muss das ja tatsächlich irgendwie belegt sein."
+  }
+]
